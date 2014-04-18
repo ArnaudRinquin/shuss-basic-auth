@@ -1,0 +1,16 @@
+{
+  "name": "shuss-basic-auth",
+  "version": "0.0.0",
+  "description": "Basic auth plugin for Shuss",
+  "license": "MIT",
+  "author": "Arnaud Rinquin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArnaudRinquin/shuss"
+  },
+  "main": "lib/shuss-basic-auth",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "http-auth": "~2.1.7"
+  }
+}
